@@ -1,0 +1,18 @@
+17
+56C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist133400177115886777 1
+69C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\package-lock.json133400167057534922 0
+64C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\package.json133400167057534922 0
+74C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\index.a6d193c4.js133396816999015650 0
+68C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src\functions.ts133396849165533864 0
+78C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\index.a6d193c4.js.map133396816999081168 0
+55C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src133400171394387659 1
+67C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src\datatype.ts133400170526917015 0
+66C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src\classes.ts133400167057534922 0
+66C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src\index.html133396832036636771 0
+75C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\parcel.175d89a2.js133396816882885482 0
+64C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src\index.ts133400177114820635 0
+66C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\src\utility.ts133400167057691297 0
+74C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\index.b71e74eb.js133400177115542607 0
+78C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\index.b71e74eb.js.map133400177115700084 0
+67C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\index.html133400176772961086 0
+79C:\Users\stefv\Documents\lessen\PGM-5\Week 1\parcel\dist\parcel.175d89a2.js.map133396816883010638 0

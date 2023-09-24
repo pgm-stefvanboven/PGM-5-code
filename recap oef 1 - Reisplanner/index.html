@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reisplanner</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Reisplanner</h1>
+        <form id="reisplanner-form">
+            <label for="bestemming">Bestemming:</label>
+            <input type="text" id="bestemming" required><br>
+
+            <label for="reisdatums">Vertrek:</label>
+            <input type="date" id="reisdatums" required><br>
+
+            <label for="terugkeerdatums">Terugkomst:</label>
+            <input type="date" id="terugkeerdatums" required><br>
+
+            <label for="aantalReizigers">Aantal reizigers:</label>
+            <input type="number" id="aantalReizigers" min="1" required><br>
+
+            <label for="vluchtkostenPerPersoon">Vluchtkosten per persoon:</label>
+            <input type="number" id="vluchtkostenPerPersoon" min="0" required><br>
+
+            <label for="kostenAccommodatiePerNacht">Kosten accommodatie per nacht:</label>
+            <input type="number" id="kostenAccommodatiePerNacht" min="0" required><br>
+
+            <label for="dagelijkseKostenPerPersoon">Dagelijkse kosten per persoon:</label>
+            <input type="number" id="dagelijkseKostenPerPersoon" min="0" required><br>
+
+            <label for="valuta-selector">Selecteer valuta:</label>
+            <select id="valuta-selector">
+                <option value="EUR">EUR</option>
+                <option value="USD">USD</option>
+                <option value="GBP">GBP</option>
+                <option value="JPY">JPY</option>
+            </select><br>
+
+            <button type="submit">Bereken totale kosten</button>
+        </form>
+
+        <div id="resultaat" style="display: none;">
+            <h2>Totale reiskosten:</h2>
+            <p id="totaal"></p>
+        </div>
+
+        <button type="button" id="refresh-button" style="display: none;">Herstart</button>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
