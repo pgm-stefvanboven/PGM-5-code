@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "item": "waterfles",
+        "voorraad": 10
+    },
+
+    {
+        "id": 2,
+        "item": "Banaan",
+        "voorraad": 5
+    },
+
+    {
+        "id": 3,
+        "item": "Appel",
+        "voorraad": 8
+    },
+
+    {
+        "id": 4,
+        "item": "Peer",
+        "voorraad": 6
+    },
+
+    {
+        "id": 5,
+        "item": "Melk",
+        "voorraad": 7
+    },
+
+    {
+        "id": 6,
+        "item": "Mango",
+        "voorraad": 4
+    },
+
+    {
+        "id": 7,
+        "item": "Kiwi",
+        "voorraad": 3
+    },
+
+    {
+        "id": 8,
+        "item": "Meloen",
+        "voorraad": 2
+    },
+
+    {
+        "id": 9,
+        "item": "Ananas",
+        "voorraad": 1
+    },
+
+    {
+        "id": 10,
+        "item": "Druiven",
+        "voorraad": 9
+    }
+]
